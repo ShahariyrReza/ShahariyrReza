@@ -1,5 +1,15 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="">
-    <h1 align="center" style="color:rgb(100, 100, 171);">Hi 👋, I'm Shahariyr Reza</h1>
+    <h1 align="center" style="color:rgb(100, 100, 171);">
+    <div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Shahariyr%20Reza;I'm+a+Software+Engineer;Problem+Solver)](https://git.io/typing-svg)
+ 
+ </div>
+
+    
+    Hi 👋, I'm Shahariyr Reza</h1>
 <h3 align="center">A passionate Full_Stack Software Engineer from Bangladesh</h3>
 <img align="right" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coding"> <br>
 
