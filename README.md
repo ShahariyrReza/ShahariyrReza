@@ -31,7 +31,7 @@
 
 - 📄To Know about my experiences download my <a href="https://drive.google.com/file/d/1Mz8n87i62pSdWhqEliUdk0J0YrdkMMFy/view?usp=share_link"> CV</a> <br>
 
-- ⚡ Fun fact **I love to eat Biriyani during coding**
+- ⚡ Fun fact **I love to drink coffie during coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
