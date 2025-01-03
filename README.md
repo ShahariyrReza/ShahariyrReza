@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **shahariyr.reza@hotmail.com** <br>
 
-- 📄To Know about my experiences download my <a href="https://drive.google.com/file/d/1tPd4HSuJOu1IbGpd1Ia82ipTagENWoTK/view?usp=sharing> CV</a> <br>
+- 📄To Know about my experiences download my <a href="https://drive.google.com/file/d/1tPd4HSuJOu1IbGpd1Ia82ipTagENWoTK/view?usp=sharing"> CV</a> <br>
 
 - ⚡ Fun fact **I love to drink coffie during coding**
 
