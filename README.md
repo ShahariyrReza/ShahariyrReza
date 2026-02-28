@@ -1,55 +1,150 @@
-<img src="https://camo.githubusercontent..com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="">
-    <h1 align="center" style="color:blue;">
-    <div align="center" >
- 
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=350&height=70&lines=Shahariyr%20Reza;Software+Engineer;Problem+Solver)](https://git.io/typing-svg)
- 
- </div>
+<div align="center">
+  
+  <!-- Fixed Banner - Working GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="300" alt="coding banner">
+  
+  <!-- Clean Typing Effect -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Shahariyr+Reza;Software+Engineer;Java+Developer;Problem+Solver" alt="Typing SVG" />
+  </h1>
+  
+  <h3 align="center">✨ Building robust backend solutions with 1+ year of experience ✨</h3>
+  
+  <!-- Stats Badges -->
+  <p>
+    <img src="https://img.shields.io/github/followers/shahariyrreza?style=social" alt="followers">
+    <img src="https://img.shields.io/github/stars/shahariyrreza?style=social" alt="stars">
+    <img src="https://komarev.com/ghpvc/?username=shahariyrreza&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views">
+  </p>
+  
+</div>
 
-    
-   <h1 align="center"> Hello 👋 👋 👋, I'm Shahariyr Reza</h1>
-<h3 align="center" style="color:violet">Passionate Full_Stack Software Engineer</h3>
- <br>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariyrreza&label=Profile%20views&color=0e75b6&style=flat" alt="shahariyrreza" /> </p>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on <a href="https://github.com/ShahariyrReza/java_practice">JAVA</a> <br>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 <strong>Currently working on:</strong> Enterprise Java applications with Spring Boot</li>
+        <li>🌱 <strong>Currently learning:</strong> Microservices, Docker, and Cloud Technologies</li>
+        <li>👯 <strong>Looking to collaborate on:</strong> Open source Java projects</li>
+        <li>💬 <strong>Ask me about:</strong> Java, Spring Boot, REST APIs, or Software Architecture</li>
+        <li>📫 <strong>Reach me at:</strong> shahariyr.reza@hotmail.com</li>
+        <li>📄 <strong>Check my:</strong> <a href="https://drive.google.com/file/d/1tPd4HSuJOu1IbGpd1Ia82ipTagENWoTK/view?usp=sharing">Resume</a></li>
+        <li>⚡ <strong>Fun fact:</strong> I debug with coffee - the more complex the bug, the stronger the coffee!</li>
+      </ul>
+    </td>
+    <td>
+      <!-- Fixed GIF - Working alternative -->
+      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="coding animation">
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **Spring Boot** <br>
+---
 
-- 👯 I’m looking to collaborate on **Backend Project** <br>
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **Whatever you want..** <br>
+<div align="center">
 
-- 📫 How to reach me **shahariyr.reza@hotmail.com** <br>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-- 📄To Know about my experiences download my <a href="https://drive.google.com/file/d/1tPd4HSuJOu1IbGpd1Ia82ipTagENWoTK/view?usp=sharing"> CV</a> <br>
+### Frontend & Databases
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- ⚡ Fun fact **I love to drink coffie during coding**
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahariyrreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahariyrreza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahariyr-reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahariyr-reza" height="30" width="40" /></a>
-<a href="https://fb.com/shahariyr.reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahariyr.reza" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shahariyr_reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahariyr_reza" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <br> 
+---
 
-<p> <p>&nbsp</p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahariyrreza&show_icons=true&locale=en&layout=compact" alt="shahariyrreza" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariyrreza&" alt="shahariyrreza" /></p>
+## 🚀 Featured Projects
 
+<div align="center">
+  
+### Java Practice Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahariyrReza&repo=java_practice&theme=midnight-purple&hide_border=true&bg_color=1a1b27&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff)](https://github.com/ShahariyrReza/java_practice)
 
+*A comprehensive collection of Java programs, data structures, and algorithms*
 
+---
+
+### More Projects Coming Soon!
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-Project-informational?style=for-the-badge&logo=spring&color=6DB33F">
+        <br>
+        <sub>E-Commerce Backend (In Progress)</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/REST_API-Project-informational?style=for-the-badge&logo=swagger&color=85EA2D">
+        <br>
+        <sub>Task Management API (Planning)</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Stats Overview
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shahariyrreza&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=1a1b27&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff" width="100%">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariyrreza&theme=midnight-purple&hide_border=true&background=1a1b27&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9d4edd&sideLabels=ffffff&dates=9d4edd" width="100%">
+    </td>
+  </tr>
+</table>
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariyrreza&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1b27&title_color=9d4edd&text_color=ffffff" width="60%">
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahariyr-reza)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahariyrreza)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/shahariyr.reza)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shahariyr_reza)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahariyr.reza@hotmail.com)
+
+</div>
+
+---
+
+<!-- Simple Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true" width="100%">
+  
+  <sub>⭐️ From [Shahariyr Reza](https://github.com/ShahariyrReza) | Building the future, one commit at a time ⭐️</sub>
+</div>
