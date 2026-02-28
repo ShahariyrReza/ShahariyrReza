@@ -78,38 +78,36 @@
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/ShahariyrReza/AuthValidator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahariyrReza&repo=AuthValidator&theme=graywhite&hide_border=true&bg_color=f6f8fa&title_color=2F80ED&icon_color=2F80ED&text_color=1F2A3A&border_radius=8" width="100%">
-      </a>
-      <br>
-      <sub>🔐 Secure authentication with validation rules for user inputs</sub>
-      <br>
-      <br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+    <td width="33%" align="center" valign="top">
+      <h3><a href="https://github.com/ShahariyrReza/AuthValidator">🔐 AuthValidator</a></h3>
+      <p><i>Secure authentication with validation rules</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      </p>
+      <p>✅ Login & Sign-up forms with field validation<br>✅ Error handling with specific messages</p>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/ShahariyrReza/JWTGuard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahariyrReza&repo=JWTGuard&theme=graywhite&hide_border=true&bg_color=f6f8fa&title_color=2F80ED&icon_color=2F80ED&text_color=1F2A3A&border_radius=8" width="100%">
-      </a>
-      <br>
-      <sub>🛡️ JWT-based authentication & authorization implementation</sub>
-      <br>
-      <br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white">
+    <td width="33%" align="center" valign="top">
+      <h3><a href="https://github.com/ShahariyrReza/JWTGuard">🛡️ JWTGuard</a></h3>
+      <p><i>JWT authentication & authorization</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white">
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white">
+      </p>
+      <p>✅ Token-based authentication<br>✅ Secure API endpoint protection</p>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/ShahariyrReza/StaffFlex">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahariyrReza&repo=StaffFlex&theme=graywhite&hide_border=true&bg_color=f6f8fa&title_color=2F80ED&icon_color=2F80ED&text_color=1F2A3A&border_radius=8" width="100%">
-      </a>
-      <br>
-      <sub>👥 Staff management system with CRUD operations</sub>
-      <br>
-      <br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    <td width="33%" align="center" valign="top">
+      <h3><a href="https://github.com/ShahariyrReza/StaffFlex">👥 StaffFlex</a></h3>
+      <p><i>Staff management with CRUD operations</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+      </p>
+      <p>✅ Create, Read, Update, Delete operations<br>✅ Employee data management</p>
     </td>
   </tr>
 </table>
@@ -122,62 +120,58 @@
 
 <div align="center">
 
-### 📈 Quick Stats
+### 📈 Profile Summary
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shahariyrreza&show_icons=true&theme=graywhite&hide_border=true&count_private=true&bg_color=f6f8fa&title_color=2F80ED&icon_color=2F80ED&text_color=1F2A3A&border_radius=8&cache_seconds=1800" width="100%">
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Repositories-7+-2F80ED?style=for-the-badge&logo=github&logoColor=white">
       <br>
-      <sub><b>📊 GitHub Stats</b> — Public contributions & repository stats</sub>
+      <sub>Public Repos</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Commits-85+-2F80ED?style=for-the-badge&logo=git&logoColor=white">
+      <br>
+      <sub>Total Commits</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Joined-2024-2F80ED?style=for-the-badge&logo=github&logoColor=white">
+      <br>
+      <sub>GitHub Member Since</sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-### 💻 Languages Used in Public Repositories
+### 💻 Primary Languages
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariyrreza&layout=compact&theme=graywhite&hide_border=true&bg_color=f6f8fa&title_color=2F80ED&text_color=1F2A3A&border_radius=8&cache_seconds=1800" width="70%">
-        <br>
-        <sub><b>📝 Language Distribution</b> — Based on public repository code</sub>
+        <img src="https://img.shields.io/badge/Java-36.4%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML-35.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-28.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       </td>
     </tr>
   </table>
+  <sub>📊 Based on public repository statistics</sub>
 </div>
 
 <br>
 
-### 🔥 Contribution Streak
+### 🔥 Activity Highlights
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariyrreza&theme=graywhite&hide_border=true&background=f6f8fa&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=1F2A3A&sideNums=1F2A3A&currStreakLabel=2F80ED&sideLabels=1F2A3A&dates=6c757d&border_radius=8" width="100%">
-        <br>
-        <sub><b>⚡ Current Streak</b> — Daily contribution consistency</sub>
-      </td>
+      <td align="center">⭐ <b>Stars earned:</b> <img src="https://img.shields.io/github/stars/shahariyrreza?style=social"></td>
+      <td align="center">📌 <b>Pinned:</b> AuthValidator • JWTGuard • StaffFlex</td>
     </tr>
-  </table>
-</div>
-
-<br>
-
-### 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <table>
     <tr>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=shahariyrreza&theme=flat&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" width="100%">
-        <br>
-        <sub><b>🏅 Achievements</b> — Milestones earned on GitHub</sub>
-      </td>
+      <td align="center">🔨 <b>Most used:</b> Java, Spring Boot</td>
+      <td align="center">📅 <b>Latest update:</b> December 2024</td>
     </tr>
   </table>
 </div>
@@ -201,18 +195,6 @@
 
 ---
 
-## 📅 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-
-<div align="center">
-  <sub>✨ Latest updates from my GitHub repositories</sub>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -231,6 +213,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true" width="100%">
   <br>
   <sub>⭐️ From <a href="https://github.com/ShahariyrReza">Shahariyr Reza</a> — Java Developer building robust backend solutions ⭐️</sub>
-  <br>
-  <sub>📊 Last updated: March 2025</sub>
 </div>
